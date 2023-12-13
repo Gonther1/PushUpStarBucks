@@ -209,9 +209,6 @@ main {
     height: 80%;
 }
 @media screen and (max-width: 1140px){
-    .navbar input {
-        display: block;
-    }
     .down
     {
         display: flex;
